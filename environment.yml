@@ -3,10 +3,11 @@ name: dsci522-han
 channels:
   - conda-forge
   - defaults
-  dependencies:
-    - pandas=2.2.2
-    - pandera=0.20.4
-    - python=3.11
-    - pip
-    - pip:
-      - deepchecks==0.18.1
+dependencies:
+  - pandas=2.2.2
+  - pandera=0.20.4
+  - python=3.11
+  - pip=23.2
+  - pip:
+    - deepchecks==0.18.1
+
