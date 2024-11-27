@@ -6,7 +6,7 @@ MIT license.
 
 MIT License
 
-Copyright (c) 2024 Tiffany A. Timbers
+Copyright (c) 2024 Han Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
