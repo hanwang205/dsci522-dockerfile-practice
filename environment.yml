@@ -1,0 +1,8 @@
+name: dsci522-han
+channels:
+  - conda-forge
+dependencies:
+  - pandas=2.2.2
+  - numpy=2.1.0
+  - matplotlib
+  - scikit-learn
